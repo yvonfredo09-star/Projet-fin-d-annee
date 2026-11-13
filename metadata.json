@@ -1,0 +1,8 @@
+{
+  "name": "VigieLab — Plateforme de veille intelligente",
+  "description": "Plateforme automatisée de collecte RSS, déduplication, classification par domaine, synthèse IA et génération de bulletins de veille technologique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
